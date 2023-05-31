@@ -1,0 +1,8 @@
+In C# spelen  classes en objects een grote rol. Je hebt daarbij ook attributes en methods. Een voorbeeld in het echte leven: Een vliegtuig is een class. De vliegtuig heeft dan ook nog 
+attributes, wat dan kleur, gewicht, lengte en grootte is. De vliegtuig heeft ook nog methodes. Dat zullen dan rijden zijn, vliegen, sturen etc.
+
+Een field is dan eigenlijk in principe een "model" van het vliegtuig, een blueprint als je wilt.
+
+Een constructor is een soort speciale methode, om bijvoorbeeld het soort vliegtuig te herkennen. Nu ben ik niet goed met vliegtuigen maar met auto's betekent dit het 
+verschil tussen een volvo of een BMW
+
