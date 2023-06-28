@@ -1,0 +1,30 @@
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\bin\Debug\net7.0\opdracht 4.exe
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\bin\Debug\net7.0\opdracht 4.deps.json
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\bin\Debug\net7.0\opdracht 4.runtimeconfig.json
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\bin\Debug\net7.0\opdracht 4.dll
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\bin\Debug\net7.0\opdracht 4.pdb
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\obj\Debug\net7.0\opdracht 4.csproj.AssemblyReference.cache
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\obj\Debug\net7.0\opdracht 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\obj\Debug\net7.0\opdracht 4.AssemblyInfoInputs.cache
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\obj\Debug\net7.0\opdracht 4.AssemblyInfo.cs
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\obj\Debug\net7.0\opdracht 4.csproj.CoreCompileInputs.cache
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\obj\Debug\net7.0\opdracht 4.dll
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\obj\Debug\net7.0\refint\opdracht 4.dll
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\obj\Debug\net7.0\opdracht 4.pdb
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\obj\Debug\net7.0\opdracht 4.genruntimeconfig.cache
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht 4\opdracht 4\opdracht 4\obj\Debug\net7.0\ref\opdracht 4.dll
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\bin\Debug\net7.0\opdracht 4.exe
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\bin\Debug\net7.0\opdracht 4.deps.json
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\bin\Debug\net7.0\opdracht 4.runtimeconfig.json
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\bin\Debug\net7.0\opdracht 4.dll
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\bin\Debug\net7.0\opdracht 4.pdb
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\obj\Debug\net7.0\opdracht 4.csproj.AssemblyReference.cache
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\obj\Debug\net7.0\opdracht 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\obj\Debug\net7.0\opdracht 4.AssemblyInfoInputs.cache
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\obj\Debug\net7.0\opdracht 4.AssemblyInfo.cs
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\obj\Debug\net7.0\opdracht 4.csproj.CoreCompileInputs.cache
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\obj\Debug\net7.0\opdracht 4.dll
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\obj\Debug\net7.0\refint\opdracht 4.dll
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\obj\Debug\net7.0\opdracht 4.pdb
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\obj\Debug\net7.0\opdracht 4.genruntimeconfig.cache
+C:\Users\jelle\OneDrive\Bureaublad\Battle simulator\battle-simulator\4de opdracht\obj\Debug\net7.0\ref\opdracht 4.dll
