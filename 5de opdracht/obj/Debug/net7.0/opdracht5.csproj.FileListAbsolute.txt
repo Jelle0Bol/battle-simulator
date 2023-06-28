@@ -1,0 +1,15 @@
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\bin\Debug\net7.0\opdracht5.exe
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\bin\Debug\net7.0\opdracht5.deps.json
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\bin\Debug\net7.0\opdracht5.runtimeconfig.json
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\bin\Debug\net7.0\opdracht5.dll
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\bin\Debug\net7.0\opdracht5.pdb
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\obj\Debug\net7.0\opdracht5.csproj.AssemblyReference.cache
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\obj\Debug\net7.0\opdracht5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\obj\Debug\net7.0\opdracht5.AssemblyInfoInputs.cache
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\obj\Debug\net7.0\opdracht5.AssemblyInfo.cs
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\obj\Debug\net7.0\opdracht5.csproj.CoreCompileInputs.cache
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\obj\Debug\net7.0\opdracht5.dll
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\obj\Debug\net7.0\refint\opdracht5.dll
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\obj\Debug\net7.0\opdracht5.pdb
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\obj\Debug\net7.0\opdracht5.genruntimeconfig.cache
+C:\Users\maxho\OneDrive\Documenten\Bureaublad\OOP_opdrachten\opdracht5\opdracht5\obj\Debug\net7.0\ref\opdracht5.dll
